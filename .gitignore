@@ -33,3 +33,7 @@ pnpm-lock.yaml
 
 # template related files
 example-collection/
+
+# Hardhat & Foundry build files
+artifacts/
+cache/
